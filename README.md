@@ -2,3 +2,4 @@
 2024년 심바톤 5팀 중앙 레포지토리
 
 otj test
+min test
